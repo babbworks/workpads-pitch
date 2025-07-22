@@ -1,7 +1,7 @@
 # Advantage
 
-Sovereign Services
-Gauranteed autonomy for the most secretive segments.
+Sovereign Service  
+Guaranteed autonomy for the most secretive segments.
 
 Hardware-focused roaap that frees us from the Team Subscription paradigm.
 
