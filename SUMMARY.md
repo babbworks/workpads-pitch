@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Babb makes tough tools.](README.md)
+* [Tools for the working world.](README.md)
 * [Purpose](purpose.md)
 
 ## PITCH
