@@ -15,3 +15,7 @@ Zero reliance on cloud services. Offline by default.
 
 Serverless sharing of records and record images.
 
+A "century system" that will always work.
+
+
+
