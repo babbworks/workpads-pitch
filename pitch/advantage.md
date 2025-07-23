@@ -1,16 +1,19 @@
 # Advantage
 
-Sovereign Service  
-Guaranteed autonomy for the most secretive segments.  
+Sovereign Service
 
-Hardware-focused roadmap; freed from Team Subscription dependencies.  
+* Guaranteed Autonomy
+* User-Selected Services
+* Hardware-Focused Roadmap
 
-Terminals, Buttoms, Screens  
-Works equally well on industrial and commercial devices, as well as smart phones.
+Terminals, Buttons, Screens
 
+* Works on Industrial and Commercial Devices
+* Designed for Low-Power, Low-Compute Conditions
+* Extensible Design Language for All Ages
 
-Working & Learning  
+Two-Engine Architecture
 
-
-
-
+* Working & Learning Platform
+* "Babb Personal Platform"
+* Committed to Individual Development
