@@ -3,7 +3,7 @@
 Autonomy for the Entrepreneur
 
 * Offline with Full Functionality
-* Generate Images of Records, Coordinate by Text
+* Generate Images of Records
 * Accounting without Effort
 
 Terminals, Buttons, Screens
