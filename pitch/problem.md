@@ -5,7 +5,7 @@ coverY: 0
 
 # Problem
 
-For hands-on entrepreneurs whose dashboard is their desk, the design of today's business management tools are out of touch and often out of reachof their computer abilities.&#x20;
+For hands-on entrepreneurs whose dashboard is their desk, the design of today's business management tools are out of touch and often out of reach.&#x20;
 
 Trades teams form daily and dynamically, requiring a strong focus on coordination and rapid record-keeping. The market is filled with overly-complicated solutions that are either too time intensive to setup or too niche to match the many hats that Tradesmen wear.
 

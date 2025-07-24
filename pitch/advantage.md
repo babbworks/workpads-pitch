@@ -1,10 +1,10 @@
 # Advantage
 
-Sovereign Service
+Autonomy for the Entrepreneur
 
-* Guaranteed Autonomy
-* User-Selected Services
-* Hardware-Focused Roadmap
+* Offline with Full Functionality
+* Generate Images of Records, Coordinate by Text
+* Accounting without Effort
 
 Terminals, Buttons, Screens
 
@@ -12,8 +12,8 @@ Terminals, Buttons, Screens
 * Designed for Low-Power, Low-Compute Conditions
 * Extensible Design Language for All Ages
 
-Two-Engine Architecture
+Personal Platform
 
-* Working & Learning Platform
-* "Babb Personal Platform"
-* Committed to Individual Development
+* Designed for Working & Learning
+* Grows with the Individual
+* Promotes Ownership
